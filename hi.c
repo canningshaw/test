@@ -3,7 +3,7 @@ int main()
 
 {
 
-printf("hi/n");
+printf("hello github/n");
 return 0;
 
 }
